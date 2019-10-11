@@ -1,0 +1,12 @@
+{
+	"name": "RollingScopes-demo",
+	"authors": "Ihor Syerkov <serkov.ihor@gmail.com>",
+	"version": "1.0.0",
+	"scripts": {
+		"start": "http-server"
+	},
+	"dependencies": {
+		"http-server": "^0.11.1",
+		"lit-html": "^1.1.2"
+	}
+}
